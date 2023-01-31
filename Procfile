@@ -1,1 +1,1 @@
-web: python sk.py
+web: python main.py
