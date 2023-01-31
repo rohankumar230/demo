@@ -1,1 +1,1 @@
-web:Pip install requests && Pip install user_agent && python main.py
+run:Pip install requests && Pip install user_agent && python main.py
