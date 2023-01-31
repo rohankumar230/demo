@@ -1,5 +1,3 @@
-pip install requests
-pip install user_agent
 import sys
 import marshal
 if sys.version[:3] == '3.9':
